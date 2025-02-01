@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62855a33-a35c-4ec0-942a-ccee9f5a85c0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../POO_Game/src/Hyundai.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +17,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Roxas-XIII"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Roxas-XIII/QALabNTTDATA092024.git",
+    "accountId": "9278e2fa-dfd2-4254-846f-6b866b9435b7"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -34,7 +48,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "feature/hu-290",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Joseph/Desktop/prueba/QALabNTTDATA092024/AppArrays"
+    "last_opened_file_path": "C:/Users/Joseph/Desktop/prueba/QALabNTTDATA092024"
   }
 }]]></component>
   <component name="RunManager">
